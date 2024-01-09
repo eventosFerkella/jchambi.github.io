@@ -1,0 +1,27 @@
+[
+    {
+      "id": 4,
+      "title": "Combo 1",
+      "thumbnailUrl": "https://picsum.photos/id/0/600",
+      "precio": 259.00,
+      "descripcion": "Alquiler de un biombo, más tres mesas cilindro, más escalera de sorpresas, caja de regalos y accesorios",
+      "identificador": "id_1"
+    },
+    {
+      "id": 5,
+      "title": "Combo 2",
+      "thumbnailUrl": "https://picsum.photos/id/10/600",
+      "precio": 300.00,
+      "descripcion": "Alquiler de un biombo, más cinco mesas cilindro, más escalera de sorpresas, caja de regalos y accesorios",
+      "identificador": "id_2"
+    },
+    {
+      "id": 6,
+      "title": "Combo 3",
+      "thumbnailUrl": "https://picsum.photos/id/20/600",
+      "precio": 360.00,
+      "descripcion": "Alquiler de un biombo, más cinco mesas cilindro, más escalera de sorpresas, caja de regalos, mueble para Candy Bar, más caballete y accesorios",
+      "identificador": "id_3"
+    }
+    
+]

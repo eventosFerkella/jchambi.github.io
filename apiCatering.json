@@ -1,0 +1,28 @@
+[
+    {
+      "id": 7,
+      "title": "Bocaditos Dulces",
+      "thumbnailUrl": "https://picsum.photos/id/0/600",
+      "precio": 30.00,
+      "descripcion": "*Precio varía según el bocadito elegido. Variedad en bocaditos dulces: Deditos de Chocolate, Mini Pye de limón o maracuyá, Trufas de chocolate, Alfajores, Cachitos con Manjar, entre otros",
+      "identificador": "id_1"
+    },
+    {
+      "id": 8,
+      "title": "Bocaditos Salados",
+      "thumbnailUrl": "Empanadas de queso",
+      "precio": 30.00,
+      "descripcion": "*Precio varía según el bocadito elegido. Variedad en bocaditos salados: Empanadas de Carne, Empanadas de Queso, Empanadas Mixtas, Tequeños, Sanguchitos de Pollo y/o Carne, Enrolladitos de hot-dog.",
+      "identificador": "id_2"
+    },
+    {
+      "id": 9,
+      "title": "Bocaditos Especiales",
+      "thumbnailUrl": "https://picsum.photos/id/20/600",
+      "precio": 40.00,
+      "descripcion": "*Precio varía según el bocadito elegido. Variedad en bocaditos especiales: Cup Cakes, Brownies, Caucitas, Brochetas, Mini-Adobitos, Fresas con chocolate, Muslitos de Pollo, Cake Pop, Lace Pop",
+      "identificador": "id_3"
+    }
+    
+    
+]

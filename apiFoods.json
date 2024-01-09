@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Chicharron de Chancho",
+      "thumbnailUrl": "https://picsum.photos/id/0/600",
+      "precio": 18.00,
+      "descripcion": "Riquísimo chicharron, más porción de papa, maíz, camote y ensalada.",
+      "identificador": "id_1"
+    },
+    {
+      "id": 2,
+      "title": "Parrilla de chancho",
+      "thumbnailUrl": "https://picsum.photos/id/10/600",
+      "precio": 25.00,
+      "descripcion": "Corte de cerdo a la parrilla con guarnición de papa, choclo, chorizo y ensalada para escoger al gusto del cliente.",
+      "identificador": "id_2"
+    },
+    {
+      "id": 3,
+      "title": "Chancho a la Caja China",
+      "thumbnailUrl": "https://picsum.photos/id/20/600",
+      "precio": 30.00,
+      "descripcion": "Deliciosa porción crugiente de panceta de cerdo con guarnición para escoger al gusto del cliente.",
+      "identificador": "id_3"
+    },
+    {
+      "id": 3,
+      "title": "Adobo Arequipeño",
+      "thumbnailUrl": "https://picsum.photos/id/20/600",
+      "precio": 17.00,
+      "descripcion": "Tradicional Adobo Arequipeño, más pan de tres puntas y su rocoto.",
+      "identificador": "id_3"
+    },
+    {
+      "id": 3,
+      "title": "Chancho al Horno",
+      "thumbnailUrl": "https://picsum.photos/id/20/600",
+      "precio": 25.00,
+      "descripcion": "Exquisita pieza de chancho horneado en finas hierbas suave y jugoso para tu paladar.",
+      "identificador": "id_3"
+    }
+  ]
